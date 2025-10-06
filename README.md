@@ -49,9 +49,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-CC0000?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/-RocketMQ-000000?style=flat-square&logo=apache-rocketmq&logoColor=white)
+![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)
 
 </div>
-
 ---
 
 ## 📊 GitHub 数据
