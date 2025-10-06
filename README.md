@@ -66,7 +66,7 @@
 
 ## 💬 让我们联系吧！
 
-- 📧 邮箱: [8989561494@qq.com](mailto:mogullzr@example.com) （替换为你的邮箱）
+- 📧 邮箱: [8989561494@qq.com](8989561494@qq.com)
 - 🌐 博客: [RzCode](https://rzcode.top)
 - 📱 个人网站: [ByteOJ](https://www.byteoj.com)
 
