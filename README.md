@@ -3,7 +3,7 @@
 我是一名来自某大学的热情开发者，喜欢使用 Java、Vue、Python 等技术构建酷炫的项目。目前专注于 AI 驱动的项目，如在线编程平台和自动化脚本。让我们连接起来，一起创造一些好玩有意义的东西！🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mogullzr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ea5b3&hide=stars,commits,prs,issues&width=100%" alt="mogullzr 的 GitHub 数据" />
+ <img src="https://github-readme-stats.vercel.app/api?username=mogullzr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ea5b3&width=100%" alt="mogullzr 的 GitHub 数据" />
 </p>
 
 ---
@@ -19,25 +19,30 @@
 以下是我最近还在维护的仓库项目：
 
 - **[ByteOJ 后端](https://github.com/mogullzr/byteoj_backend)**  
-  使用 Vue3 + SpringBoot + WebSocket + SSE + MySQL + RocketMQ + Redis 实现的智能 AI 在线编程系统 ⭐ 21
+  使用 Vue3 + SpringBoot + WebSocket + SSE + MySQL + RocketMQ + Redis 实现的智能 AI 在线编程系统  
+  [![Stars](https://img.shields.io/github/stars/mogullzr/byteoj_backend?style=social)](https://github.com/mogullzr/byteoj_backend)⭐⭐⭐
 
 - **[ByteOJ 前端](https://github.com/mogullzr/byteoj_fronted)**  
-  Vue3 + SpringBoot + OpenCv + YOLO + RxJava 后台流量监测的在线判题 AI 判题系统 ⭐ 10
+  Vue3 + SpringBoot + OpenCv + YOLO + RxJava 后台流量监测的在线判题 AI 判题系统  
+  [![Stars](https://img.shields.io/github/stars/mogullzr/byteoj_fronted?style=social)](https://github.com/mogullzr/byteoj_fronted)⭐⭐⭐
 
 - **[超星脚本](https://github.com/mogullzr/chaoxingScript)**  
-  基于 Python 的 Selenium 实现的学习通刷课脚本（内置 AI 刷题） ⭐ 6
+  基于 Python 的 Selenium 实现的学习通课脚本（内置 AI 刷题）  
+  [![Stars](https://img.shields.io/github/stars/mogullzr/chaoxingScript?style=social)](https://github.com/mogullzr/chaoxingScript)⭐⭐
 
 - **[Welearn 脚本](https://github.com/mogullzr/Welearn_Script)**  
-  Welearn 的一个超级脚本工具（目前面向对象，软工专业大一同学） ⭐ 4
+  Welearn 的一个超级脚本工具（目前面向对象，软工专业大一同学）  
+  [![Stars](https://img.shields.io/github/stars/mogullzr/Welearn_Script?style=social)](https://github.com/mogullzr/Welearn_Script)⭐
 
-- **[个人博客](https://github.com/mogullzr/mogullzr.github.io)**  
-  我的个人博客，分享开发心得和项目更新 ⭐ 3
+- **[个人博客](https://github.com/mogullzr/mogullzr.github.io)**  ⭐
+  我的个人博客，分享开发心得和项目更新  
+  [![Stars](https://img.shields.io/github/stars/mogullzr/mogullzr.github.io?style=social)](https://github.com/mogullzr/mogullzr.github.io)
 
 - **[Mogullzr 生成器](https://github.com/mogullzr/mogullzr-generater)**  
-  React + SpringBoot2.7 + Picocli + Caffeine + Redis 多级缓存 + Vert.x 响应式编程 + 阿里云 OSS 对象存储 ⭐ 3
+  React + SpringBoot2.7 + Picocli + Caffeine + Redis 多级缓存 + Vert.x 响应式编程 + 阿里云 OSS 对象存储  
+  [![Stars](https://img.shields.io/github/stars/mogullzr/mogullzr-generater?style=social)](https://github.com/mogullzr/mogullzr-generater)⭐
 
 ---
-
 ## 🛠️ 技术栈与技能
 
 <div align="center">
